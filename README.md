@@ -1,6 +1,6 @@
 # LAMP stack 
 
-## Sub-task #1: Linux Server Simulation
+## Linux Server Simulation
 ### 1-Install Apache, MySQL, and PHP:
 
 - Update the package index: ```sudo apt update ```
@@ -53,6 +53,5 @@ Update index.php to use the MySQL database.
 
 Open a web browser and navigate to your server's IP address. 
 You should see the modified "Hello World!" message displaying the visitor's IP address and current time.
-
-file:///home/ess/Pictures/Screenshots/Screenshot%20from%202024-02-27%2015-19-44.png
+![Screenshot from 2024-02-27 15-19-44](https://github.com/esraa4antar/LAMP-stack/assets/51370958/a09ac43c-267a-4ad2-8369-261043971e4c)
 
