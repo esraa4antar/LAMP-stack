@@ -1,4 +1,4 @@
-LAMP stack 
+#LAMP stack 
 
 Sub-task #1: Linux Server Simulation
 Install Apache, MySQL, and PHP:
