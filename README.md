@@ -44,3 +44,15 @@ GRANT ALL PRIVILEGES ON mywebsite.* TO 'myuser'@'localhost';
 FLUSH PRIVILEGES;
 EXIT;
 ```
+
+### 5-Modify the Website:
+
+Update index.php to use the MySQL database.
+
+### 6-Testing:
+
+Open a web browser and navigate to your server's IP address. 
+You should see the modified "Hello World!" message displaying the visitor's IP address and current time.
+
+file:///home/ess/Pictures/Screenshots/Screenshot%20from%202024-02-27%2015-19-44.png
+
